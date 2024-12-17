@@ -1,11 +1,11 @@
-# Building a To-Do List Project
+# Building a To-Do List Project Width Javascript
 
 ## Demo
 ![Demo](./images/demo.png)
 
 ## Installation instructions
 
-```
+```     
 git clone https://github.com/nguyenvanduydev001/to-do-list.git 
 ```
 ----
